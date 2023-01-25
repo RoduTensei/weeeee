@@ -1,0 +1,35 @@
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.vbproj.AssemblyReference.cache
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm_Project.Form1.resources
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.vbproj.GenerateResource.cache
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.AssemblyInfoInputs.cache
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.AssemblyInfo.vb
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.vbproj.CoreCompileInputs.cache
+D:\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.exe
+D:\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.deps.json
+D:\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.runtimeconfig.json
+D:\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.dll
+D:\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.pdb
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.dll
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\refint\MidTerm Project.dll
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.pdb
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.genruntimeconfig.cache
+D:\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\ref\MidTerm Project.dll
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.exe
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.deps.json
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.runtimeconfig.json
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.dll
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\bin\Debug\net6.0-windows\MidTerm Project.pdb
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.vbproj.AssemblyReference.cache
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm_Project.Form1.resources
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm_Project.Resources.resources
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.vbproj.GenerateResource.cache
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.AssemblyInfoInputs.cache
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.AssemblyInfo.vb
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.vbproj.CoreCompileInputs.cache
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.dll
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\refint\MidTerm Project.dll
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.pdb
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\MidTerm Project.genruntimeconfig.cache
+D:\PROGRAMS 1st Year\MidTerm Project\MidTerm Project\obj\Debug\net6.0-windows\ref\MidTerm Project.dll
